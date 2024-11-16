@@ -1,8 +1,6 @@
-# React + Vite
+# Basic Travel Booking website Frontend using React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### Features:
+- Implemented multipage functionality using React-router-dom.
+- Know which page you are currently on through navbar link turning orange.
+- Responsive design using Tailwind CSS.
